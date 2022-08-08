@@ -2,7 +2,7 @@
 #include <limits.h>
 #include <stdio.h>
 /**
- * _printf - produces output according to a format
+ * _printf - produces output
  * @format: format string containing the characters and the specifiers
  * Description: Produces output according to a format.
  * Return: length of the formatted output string
